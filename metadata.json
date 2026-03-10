@@ -1,0 +1,5 @@
+{
+  "name": "EventPulse - Hackathon Notifier",
+  "description": "A comprehensive event management and notification system with OD calculation, AI recommendations, and real-time updates.",
+  "requestFramePermissions": ["geolocation"]
+}
